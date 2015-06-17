@@ -1,0 +1,15 @@
+.imgwrap {
+  border: solid 1px black;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px; }
+
+.pics {
+  border-radius: 50%;
+  width: 295px;
+  height: 295px;
+  margin: 1px; }
+
+.nameList {
+  font-weight: lighter;
+  font-size: 2em; }

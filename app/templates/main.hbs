@@ -1,0 +1,21 @@
+<h2>Fam &amp; Friends</h2>
+
+<form id="addContact">
+
+  <input type="text" placeholder="enter first name" id="first-name">
+  <input type="text" placeholder="enter last name" id="last-name">
+  <input type="text" placeholder="enter age" id="age">
+  <input type="text" placeholder="enter favorite color" id="fav-color">
+  <input type="text" placeholder="enter image url" id="image-url">
+
+  <button>Add Contact</button>
+</form>
+
+
+<ul>
+  {{#each contact}}
+    <li data-id="{{ _id }}">
+      <a href="#contact/{{ _id }}" class ="nameList">{{ name }}</a>
+    </li>
+  {{/each}}
+</ul>
