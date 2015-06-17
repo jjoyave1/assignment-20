@@ -18,8 +18,11 @@
   padding-left: 20px;
   width: 125px;
   border: solid 1px #CDFCFF;
-  border-bottom-right-radius: 40%;
-  background-color: #66D9EF; }
+  border-bottom-right-radius: 60%;
+  background-color: #66D9EF;
+  height: 40px; }
+  .navLinks a {
+    margin-top: 15px; }
 
 .colorWrap {
   border: solid 1px black;
