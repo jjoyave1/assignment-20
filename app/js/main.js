@@ -13,4 +13,11 @@
     Backbone.history.start();
   });
 
+  // creating color spans
+  allContacts.forEach(function() {
+    var x = this.favColor;
+    console.log(x);
+    $('.colors').css("background-color", x.toString());
+  });
+
 }());
