@@ -1,0 +1,6 @@
+{
+  "name": "assn-20-contacts",
+  "root": "./app/",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
