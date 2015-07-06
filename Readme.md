@@ -1,4 +1,4 @@
-#Joe Joyave's repo -- contact list revisited
+#Joe Joyave'scontact list revisited
 
 This is a brief contact list using photos via link, routers for different pages, and materialize.
 
