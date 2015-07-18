@@ -1,4 +1,4 @@
-#Joe Joyave'scontact list revisited
+#Joe Joyave's contact list revisited
 
 This is a brief contact list using photos via link, routers for different pages, and materialize.
 
@@ -9,4 +9,4 @@ link to MongoDB API: http://tiy-515.herokuapp.com/collections/joyave_contacts_ii
 
 The following deserve thanks:
 
-Materialize.css, Backbone.js, Handlebars.js, jQuery, Underscore.js, MongoDB and Heroku, and Sass.
+Materialize.css, Backbone.js, Handlebars.js, jQuery, Underscore.js, MongoDB, HEROKU, and Sass.
